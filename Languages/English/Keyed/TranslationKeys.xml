@@ -2,6 +2,10 @@
 
 <LanguageData>
 	<CLSettingsGrowLPCTooltip>Change this value to the amount of power each ceiling grow light will consume.</CLSettingsGrowLPCTooltip>
-  <CLSettingsGrowLPC>Grow lamp power consumption:  </CLSettingsGrowLPC>
+  <CLSettingsGrowLPC>Grow lamp power consumption: {0}</CLSettingsGrowLPC>
   <CLSettingsCategory>Ceiling Lights</CLSettingsCategory>
+  <CLSettingsOverlightRadius>Grow light radius: {0}</CLSettingsOverlightRadius>
+  <CLSettingsOverlightRadiusTip>Controls how far the grow light provides sun light for plant growth.</CLSettingsOverlightRadiusTip>
+  <CLSettingsLightRadius>Regular light radius: {0}</CLSettingsLightRadius>
+  <CLSettingsLightRadiusTip>Controls how far the grow light provides regular light.</CLSettingsLightRadiusTip>
 </LanguageData>
